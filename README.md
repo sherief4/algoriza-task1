@@ -6,9 +6,9 @@
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Onboarding screen #1</td>
+     <td>Onboarding screen #2</td>
+  
   </tr>
   <tr>
     <td><img src="https://github.com/sherief4/algoriza-task1/blob/main/screenshots/1.png" width=270 height=480></td>
@@ -17,9 +17,9 @@
  </table>
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Login Page</td>
+     <td>Login Page</td>
+
   </tr>
   <tr>
     <td><img src="https://github.com/sherief4/algoriza-task1/blob/main/screenshots/3.png" width=270 height=480></td>
@@ -28,13 +28,14 @@
  </table>
  <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Register Page</td>
+     <td>Register Page</td>
+     <td>Register Page</td>
   </tr>
   <tr>
     <td><img src="https://github.com/sherief4/algoriza-task1/blob/main/screenshots/5.png" width=270 height=480></td>
     <td><img src="https://github.com/sherief4/algoriza-task1/blob/main/screenshots/6.png" width=270 height=480></td>
+        <td><img src="https://github.com/sherief4/algoriza-task1/blob/main/screenshots/7.png" width=270 height=480></td>
   </tr>
  </table>
 
