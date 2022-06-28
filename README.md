@@ -1,7 +1,7 @@
 # Algoriza Internship first task
 
 
-##ScreenShots
+##Screenshots
 
 
 <table>
