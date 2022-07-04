@@ -35,7 +35,7 @@
   <tr>
     <td><img src="https://github.com/sherief4/algoriza-task1/blob/main/screenshots/5.png" width=540 height=1080></td>
     <td><img src="https://github.com/sherief4/algoriza-task1/blob/main/screenshots/6.png" width=540 height=1080></td>
-        <td><img src="https://github.com/sherief4/algoriza-task1/blob/main/screenshots/7.png" width=540 height=1080></td>
+
   </tr>
  </table>
 
