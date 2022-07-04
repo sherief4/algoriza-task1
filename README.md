@@ -11,8 +11,8 @@
   
   </tr>
   <tr>
-    <td><img src="https://github.com/sherief4/algoriza-task1/blob/main/screenshots/1.png" width=270 height=480></td>
-    <td><img src="https://github.com/sherief4/algoriza-task1/blob/main/screenshots/2.png" width=270 height=480></td>
+    <td><img src="https://github.com/sherief4/algoriza-task1/blob/main/screenshots/1.png" width=540 height=1080></td>
+    <td><img src="https://github.com/sherief4/algoriza-task1/blob/main/screenshots/2.png" width=540 height=1080></td>
   </tr>
  </table>
 <table>
@@ -21,9 +21,9 @@
      <td>Login Page</td>
 
   </tr>
-  <tr>
-    <td><img src="https://github.com/sherief4/algoriza-task1/blob/main/screenshots/3.png" width=270 height=480></td>
-    <td><img src="https://github.com/sherief4/algoriza-task1/blob/main/screenshots/4.png" width=270 height=480></td>
+  <tr>1080
+    <td><img src="https://github.com/sherief4/algoriza-task1/blob/main/screenshots/3.png" width=540 height=1080></td>
+    <td><img src="https://github.com/sherief4/algoriza-task1/blob/main/screenshots/4.png" width=540 height=1080></td>
   </tr>
  </table>
  <table>
@@ -33,9 +33,9 @@
      <td>Register Page</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sherief4/algoriza-task1/blob/main/screenshots/5.png" width=270 height=480></td>
-    <td><img src="https://github.com/sherief4/algoriza-task1/blob/main/screenshots/6.png" width=270 height=480></td>
-        <td><img src="https://github.com/sherief4/algoriza-task1/blob/main/screenshots/7.png" width=270 height=480></td>
+    <td><img src="https://github.com/sherief4/algoriza-task1/blob/main/screenshots/5.png" width=540 height=1080></td>
+    <td><img src="https://github.com/sherief4/algoriza-task1/blob/main/screenshots/6.png" width=540 height=1080></td>
+        <td><img src="https://github.com/sherief4/algoriza-task1/blob/main/screenshots/7.png" width=540 height=1080></td>
   </tr>
  </table>
 
